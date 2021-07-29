@@ -9,3 +9,11 @@
 .gray-scale img:hover{
     filter: grayscale(0);
 }
+
+.fa-star.filled{
+    color: #FFC014;
+}
+
+.fa-star.empty{
+    color: #AEAEAE;
+}
