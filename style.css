@@ -1,6 +1,19 @@
 .header-bg{
     background-color: #264653;
 }
+.button-color{
+    background-color: #E76F51;
+    color: white;
+    font-weight: 700;
+    width: 170px;
+    height: 45px;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+
+
 .gray-scale img{
     cursor: pointer;
     filter: grayscale(100%);
@@ -16,4 +29,8 @@
 
 .fa-star.empty{
     color: #AEAEAE;
+}
+
+.subscribe-bg{
+    background-color:antiquewhite;
 }
