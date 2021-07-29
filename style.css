@@ -1,0 +1,11 @@
+.header-bg{
+    background-color: #264653;
+}
+.gray-scale img{
+    cursor: pointer;
+    filter: grayscale(100%);
+}
+
+.gray-scale img:hover{
+    filter: grayscale(0);
+}
